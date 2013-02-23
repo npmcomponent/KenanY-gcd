@@ -1,6 +1,6 @@
 # gcd
 
-Greatest common denominator component
+Greatest common denominator [component](https://github.com/component).
 
 ## Installation
 
