@@ -1,0 +1,16 @@
+{
+  "name": "gcd-component",
+  "version": "1.0.0",
+  "description": "Greatest common denominator component",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "component": {
+    "scripts": {
+      "gcm/index.js": "index.js"
+    }
+  },
+  "private": true
+}

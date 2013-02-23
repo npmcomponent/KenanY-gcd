@@ -22,7 +22,7 @@ gcd(1254, 5298);
 ## Development
 
 ``` shell
-$ npm install mocha should
+$ npm install
 $ make
 ```
 
