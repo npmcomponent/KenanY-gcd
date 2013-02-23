@@ -1,0 +1,14 @@
+{
+  "name": "gcd",
+  "repo": "KenanY/gcd",
+  "description": "Greatest common denominator component",
+  "version": "1.0.0",
+  "keywords": ["math"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "twitter": "@kyild"
+}
