@@ -1,5 +1,7 @@
 # gcd
 
+[![Dependency Status](https://gemnasium.com/KenanY/gcd.png)](https://gemnasium.com/KenanY/gcd)
+
 Greatest common denominator [component](https://github.com/component).
 
 ## Installation
