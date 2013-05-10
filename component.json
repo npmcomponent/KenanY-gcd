@@ -4,7 +4,9 @@
   "description": "Greatest common divisor component",
   "version": "1.0.1",
   "keywords": ["math"],
-  "dependencies": {},
+  "dependencies": {
+    "KenanY/isInteger": "*"
+  },
   "development": {},
   "license": "MIT",
   "scripts": [

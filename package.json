@@ -2,10 +2,12 @@
   "name": "gcd-component",
   "version": "1.0.1",
   "description": "Greatest common divisor component",
-  "dependencies": {},
+  "dependencies": {
+    "isinteger-component": "~1.0.0"
+  },
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "mocha": "~1.9.0",
+    "should": "~1.2.0"
   },
   "component": {
     "scripts": {
