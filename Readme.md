@@ -12,9 +12,9 @@ $ component install KenanY/gcd
 
 ## API
 
-### gcd(a, b)
+### gcd(x, y)
 
-Calculate the greastest common divisor amongst `a` and `b`.
+Calculate the greastest common divisor amongst Numbers `x` and `y`.
 
 ``` javascript
 gcd(1254, 5298);

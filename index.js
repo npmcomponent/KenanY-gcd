@@ -1,21 +1,21 @@
 /**
- * Calculate the greastest common divisor amongst two integers.
+ * Calculate the greastest common divisor amongst two Numbers.
  *
- * @param {Number} number a
- * @param {Number} number b
- * @return {Number} greatest common divisor for integers a, b.
+ * @param {Number} x
+ * @param {Number} y
+ * @return {Number} greatest common divisor for Number x, y.
  * @api public
  */
-module.exports = function(a, b) {
-  var c;
-  b = (+b && +a) ? +b : 0;
-  a = b ? a : 1;
+module.exports = function(x, y) {
+  var z;
+  y = (+y && +x) ? +y : 0;
+  x = y ? x : 1;
 
-  while (b) {
-    c = a % b;
-    a = b;
-    b = c;
+  while (y) {
+    z = x % y;
+    x = y;
+    y = z;
   }
 
-  return Math.abs(a);
+  return Math.abs(x);
 };
