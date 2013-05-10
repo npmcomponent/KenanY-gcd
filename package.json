@@ -1,7 +1,27 @@
 {
   "name": "gcd-component",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Greatest common divisor component",
+  "keywords": [
+    "component"
+  ],
+  "homepage": "https://github.com/KenanY/gcd",
+  "bugs": {
+    "url": "https://github.com/KenanY/gcd/issues"
+  },
+  "author": {
+    "name": "Kenan Yildirim",
+    "email": "kenan@kenany.me",
+    "web": "http://kenany.me/"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KenanY/gcd.git"
+  },
   "dependencies": {
     "isinteger-component": "~1.0.0"
   },
@@ -13,6 +33,5 @@
     "scripts": {
       "gcm/index.js": "index.js"
     }
-  },
-  "private": true
+  }
 }

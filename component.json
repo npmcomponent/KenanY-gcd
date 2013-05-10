@@ -2,7 +2,7 @@
   "name": "gcd",
   "repo": "KenanY/gcd",
   "description": "Greatest common divisor component",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": ["math"],
   "dependencies": {
     "KenanY/isInteger": "*"
