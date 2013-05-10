@@ -1,7 +1,7 @@
 {
   "name": "gcd-component",
   "version": "1.0.0",
-  "description": "Greatest common denominator component",
+  "description": "Greatest common divisor component",
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
