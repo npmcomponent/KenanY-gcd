@@ -9,19 +9,17 @@
   "bugs": {
     "url": "https://github.com/KenanY/gcd/issues"
   },
+  "license": "MIT",
   "author": {
     "name": "Kenan Yildirim",
     "email": "kenan@kenany.me",
-    "web": "http://kenany.me/"
+    "url": "http://kenany.me/"
   },
   "main": "index.js",
   "directories": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/KenanY/gcd.git"
-  },
+  "repository": "https://github.com/KenanY/gcd.git",
   "dependencies": {
     "isinteger-component": "~1.0.0"
   },
