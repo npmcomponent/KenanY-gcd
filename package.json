@@ -1,6 +1,6 @@
 {
   "name": "gcd-component",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Greatest common divisor component",
   "keywords": [
     "component"
