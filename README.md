@@ -6,7 +6,7 @@ Greatest common divisor [component](https://github.com/component).
 
 ## Installation
 
-``` shell
+``` bash
 $ component install KenanY/gcd
 ```
 
@@ -23,7 +23,7 @@ gcd(1254, 5298);
 
 ## Development
 
-``` shell
+``` bash
 $ npm install
 $ make
 ```
