@@ -7,11 +7,11 @@ try {
 }
 
 /**
- * Calculate the greastest common divisor amongst two Numbers.
+ * Calculate the greatest common divisor amongst two Numbers.
  *
  * @param {Number} x
  * @param {Number} y
- * @return {Number} greatest common divisor for Number x, y.
+ * @return {Number} greatest common divisor for Numbers x, y.
  * @api public
  */
 module.exports = function(x, y) {
