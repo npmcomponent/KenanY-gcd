@@ -29,7 +29,7 @@
   },
   "component": {
     "scripts": {
-      "gcm/index.js": "index.js"
+      "gcm": "index.js"
     }
   }
 }
