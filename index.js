@@ -1,7 +1,7 @@
 // https://github.com/component/component/issues/212
 var isInteger;
 try {
-  isInteger = require('isInteger');
+  isInteger = require('KenanY-isInteger');
 } catch(e) {
   isInteger = require('isinteger-component');
 }

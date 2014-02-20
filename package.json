@@ -1,35 +1,12 @@
 {
-  "name": "gcd-component",
-  "version": "1.0.3",
+  "name": "kenany-gcd",
   "description": "Greatest common divisor component",
+  "version": "1.0.3",
   "keywords": [
-    "component"
+    "math"
   ],
-  "homepage": "https://github.com/KenanY/gcd",
-  "bugs": {
-    "url": "https://github.com/KenanY/gcd/issues"
-  },
-  "license": "MIT",
-  "author": {
-    "name": "Kenan Yildirim",
-    "email": "kenan@kenany.me",
-    "url": "http://kenany.me/"
-  },
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "repository": "https://github.com/KenanY/gcd.git",
   "dependencies": {
-    "isinteger-component": "~1.0.0"
+    "KenanY-isInteger": "git://github.com/npmcomponent/KenanY-isInteger.git"
   },
-  "devDependencies": {
-    "mocha": "~1.11.0",
-    "should": "~1.2.0"
-  },
-  "component": {
-    "scripts": {
-      "gcm": "index.js"
-    }
-  }
+  "license": "MIT"
 }
